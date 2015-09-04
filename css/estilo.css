@@ -1,0 +1,46 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  margin: 0;
+  background-color: #ffffff;
+  color: #5a5a5a;
+  font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.main-header {
+    height: 50px;
+    margin-bottom:30px;
+}
+
+#meu-perfil{
+  clear: both;
+  margin-bottom: 30px;
+
+}
+#meus-pedidos{
+  clear:both;
+  margin-bottom: 30px;
+}
+#meus-enderecos{
+   clear:both;
+  margin-bottom: 30px;
+}
+.produtos{
+  text-align: center;
+}
+
+.produtos h2 {
+    font-weight: normal;
+    text-align: center;
+}
+
+.produtos p {
+    margin-right: 10px;
+    margin-left: 10px;
+    text-align: left;
+}
